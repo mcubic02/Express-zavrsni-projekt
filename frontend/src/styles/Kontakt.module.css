@@ -1,0 +1,22 @@
+.kontaktBox {
+    border-radius: 0.5em;
+    height: auto;
+    width: 275px;
+    /* border-color: rgb(33, 48, 33); */
+    /* border-style: solid; */
+    background-color: var(--backgroundColor);
+    padding: 10px;
+    margin-top: 35px;
+    margin-bottom: 15px;
+    padding-left: 20px;
+    font-size: medium;
+}
+
+.kontaktBox input {
+    margin-bottom: 20px;
+}
+.kontaktIme {
+    font-size: large;
+    font-weight: bold;
+}
+

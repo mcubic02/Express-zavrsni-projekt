@@ -1,0 +1,49 @@
+.filterBox {
+    font-size: 16px;
+    background-color: var(--backgroundColor);
+    height: auto;
+    border-radius: 0.5em;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.filterLabel {
+    padding-top: 15px;
+    font-weight: bold;
+    font-size: 18px;
+    margin-right: 27px;
+    margin-left: 25px;
+}
+
+.top {
+    text-align: left;
+    padding-bottom: 30px;
+    border-top-color:rgba(41, 40, 40, 0.582) ;
+    border-top-width: 3px ;
+    border-top-style: solid;
+}
+.vrsteLabel {
+    text-align: center;
+    margin-right: 180px;
+}
+
+.top input {
+    margin-left: 10px;
+}
+
+.bottom input {
+    margin-left: 10px;
+}
+
+.bottom {
+    border-top-color:rgba(41, 40, 40, 0.582) ;
+    border-top-width: 3px ;
+    border-top-style: solid;
+    text-align: left;
+    
+}
+.statusLabel {
+    text-align: center;
+    margin-right: 180px;
+    margin-top: 30px;
+}

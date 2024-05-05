@@ -1,0 +1,41 @@
+.zivotinjaBox {
+    border-radius: 0.5em;
+    border-width: 3px;
+    padding-left: 40px;
+    padding-right: 80px;
+    margin: 15px;
+    padding-bottom: 30px;
+}
+
+#udomljenButton {
+    background-color: rgba(143, 132, 132, 0.396);
+    border-radius: 0.75em;
+    border-color: black;
+}
+.zivotinjeButton {
+    background-color: rgba(143, 132, 132, 0.396);
+    border-radius: 0.75em;
+    border-color: black;
+    margin-left: 10px;
+}
+#messageInputt{
+    margin-left: 5px;
+    margin-top: 10x;
+    resize: none;
+}
+.imeGodine {
+    font-weight: bold;
+    font-size: large;
+}
+
+.udomljen {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.zivotinjaBox .ime1 {
+    width: 50px;
+}
+.zivotinjaBox .dobLabel1{
+    width: 30px;
+}

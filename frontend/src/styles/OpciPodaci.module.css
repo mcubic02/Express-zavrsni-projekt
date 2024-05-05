@@ -1,0 +1,46 @@
+.opciPodaci {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 15px;
+}
+
+.leftPodaci {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 20px;
+    position: fixed;
+    top: 70px;
+    left: 220px;
+}
+
+.okvirOdgovora {
+    margin-left: 100px;
+    margin-right: 105px;
+}
+
+.odgovori {
+    margin-top: 60px;
+    text-align: center;
+    font-size: x-large;
+    margin-bottom: -3%;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: rgb(33, 48, 33);
+    margin-bottom: 40px;
+
+}
+
+.rightPodaci {
+    margin-left: 45%;
+}
+
+#nemaOdgovora {
+    width: 300px;
+    font-size: xx-large;
+    margin-top: 100%;
+    margin-left: 55%;
+}

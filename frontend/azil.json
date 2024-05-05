@@ -1,0 +1,212 @@
+{
+  "kontakt": {
+    "ime": "Azil za životinje Šapa",
+    "adresa": "Domovinskog rata 48, 21312 Podstrana",
+    "broj": "021/123 456",
+    "mail": "azil.zazivotinje@gmail.com"
+  },
+  "poruke": [
+    {
+      "ime": "Domagoj",
+      "prezime": "Garac",
+      "mail": "domogarac@gmail.com",
+      "poruke": "Želim usvojiti psa!",
+      "datum": "2023-05-08T15:38:59.204Z",
+      "id": 2
+    },
+    {
+      "ime": "Marija",
+      "prezime": "Ćubić",
+      "mail": "marijacubic73@gmail.com",
+      "poruke": "Koje životinje mogu udomiti?",
+      "datum": "2023-05-08T15:47:03.067Z",
+      "id": 3
+    },
+    {
+      "ime": "Ivana",
+      "prezime": "Ćubić",
+      "mail": "ivanacubic@gmail.com",
+      "poruke": "Želim udomiti papigu!",
+      "datum": "2023-05-08T18:06:26.754Z",
+      "id": 4
+    },
+    {
+      "ime": "Petar",
+      "prezime": "Perić",
+      "mail": "petarperic@gmail.com",
+      "poruke": "Koje je Vaše radno vrijeme??",
+      "datum": "2023-05-08T18:38:12.586Z",
+      "id": 8
+    }
+  ],
+  "obavijesti": [
+    {
+      "naslov": "Svečano otvorenje",
+      "tekst": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus mauris metus, vulputate vulputate neque blandit quis. Nunc ultrices diam ligula, nec commodo purus ullamcorper id. Donec aliquet libero eu tincidunt eleifend. Duis ornare tincidunt nisl quis fringilla. Curabitur bibendum metus mauris, in bibendum lectus vestibulum tristique. Sed in nibh facilisis tortor varius euismod at et lectus. In non congue elit. Donec blandit est consequat, porta tellus eu, placerat odio.",
+      "datum": "2022-11-08T23:47:10.057Z",
+      "vazno": true,
+      "id": 14
+    },
+    {
+      "naslov": "Svjetski dan pasa",
+      "tekst": "19. listopada",
+      "datum": "2023-01-08T18:15:48.999Z",
+      "vazno": false,
+      "id": 16
+    },
+    {
+      "naslov": "Svjetski dan mački",
+      "tekst": "Slavi se 8. listopada.",
+      "datum": "2023-03-09T01:15:54.787Z",
+      "vazno": false,
+      "id": 17
+    },
+    {
+      "naslov": "Dan našeg azila",
+      "tekst": "Dan našeg azila slavi se 12.5.2023.",
+      "datum": "2023-05-09T01:16:46.394Z",
+      "vazno": true,
+      "id": 18
+    },
+    {
+      "naslov": "Novo u našem azilu!",
+      "tekst": "Od danas u našem azilu možete kupovati i hranu za životinje.",
+      "datum": "2023-05-10T01:17:22.493Z",
+      "vazno": false,
+      "id": 19
+    }
+  ],
+  "donacije": [
+    {
+      "id": 1,
+      "kategorija": "donirano",
+      "tip": "Hrana",
+      "vrijednost": 25,
+      "opis": "Suha hrana za pse - 10kg"
+    },
+    {
+      "id": 4,
+      "kategorija": "donirano",
+      "tip": "Igračke",
+      "vrijednost": 36,
+      "opis": "Gumena kost"
+    },
+    {
+      "id": 6,
+      "kategorija": "nudi",
+      "tip": "Igračke",
+      "vrijednost": 38,
+      "opis": "Gumena kost"
+    },
+    {
+      "tip": "Igračke",
+      "vrijednost": 36,
+      "opis": "Gumena kost",
+      "kategorija": "donirano",
+      "id": 7
+    },
+    {
+      "tip": "Lijekovi",
+      "vrijednost": "40",
+      "opis": "Lijek za kašalj",
+      "kategorija": "donirano",
+      "id": 8
+    },
+    {
+      "tip": "Hrana",
+      "vrijednost": "30",
+      "opis": "Hrana za papige",
+      "kategorija": "nudi",
+      "id": 10
+    },
+    {
+      "tip": "Lijekovi",
+      "vrijednost": "45",
+      "opis": "Lijek za bjesnoću!",
+      "kategorija": "nudi",
+      "id": 11
+    },
+    {
+      "tip": "Hrana",
+      "vrijednost": 25,
+      "opis": "Suha hrana za pse - 10kg",
+      "kategorija": "trazi",
+      "id": 14
+    },
+    {
+      "tip": "Lijekovi",
+      "vrijednost": "40",
+      "opis": "Lijek za kašalj",
+      "kategorija": "trazi",
+      "id": 15
+    }
+  ],
+  "zivotinje": [
+    {
+      "ime": "Garfield",
+      "vrsta": "mačka",
+      "cip": "neCipiran",
+      "godine": "44",
+      "opis": "Voli lazanje",
+      "pregled": "2023-05-16",
+      "udomljen": "udomljen",
+      "id": 1
+    },
+    {
+      "ime": "Snoop",
+      "vrsta": "pas",
+      "cip": "cipiran",
+      "godine": 50,
+      "opis": "On nije kao ostali psi",
+      "pregled": "2022-09-07",
+      "udomljen": "neUdomljen",
+      "id": 2
+    },
+    {
+      "ime": "Snoopy",
+      "vrsta": "pas",
+      "cip": "neCipiran",
+      "godine": 50,
+      "opis": "On nije kao ostali psi",
+      "pregled": "2022-09-23",
+      "udomljen": "udomljen",
+      "id": 3
+    },
+    {
+      "ime": "Rikii",
+      "vrsta": "pas",
+      "cip": "neCipiran",
+      "godine": "14",
+      "opis": "Voli lazanje",
+      "pregled": "2023-05-04",
+      "udomljen": "udomljen",
+      "id": 17
+    },
+    {
+      "ime": "Toto",
+      "vrsta": "pas",
+      "cip": "cipiran",
+      "godine": "4",
+      "opis": "Voli trčat!",
+      "pregled": "2023-05-01",
+      "udomljen": "udomljen",
+      "id": 20
+    },
+    {
+      "ime": "Rex",
+      "vrsta": "pas",
+      "cip": "cipiran",
+      "godine": "4",
+      "opis": "Njemački ovčar.",
+      "pregled": "2023-05-03",
+      "udomljen": "neUdomljen",
+      "id": 24
+    }
+  ],
+  "tipDonacije": [
+    "Hrana",
+    "Lijekovi",
+    "Veterinarski troškovi",
+    "Igračke"
+  ]
+}

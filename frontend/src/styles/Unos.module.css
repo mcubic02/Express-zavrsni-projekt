@@ -1,0 +1,143 @@
+.adminOnly {
+    width: 100%; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    text-align: center;
+    font-size: x-large;
+    margin-top: 40%;
+}
+
+.adminView{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 120px;
+}
+
+
+.unosForma {
+    border-radius: 0.5em;
+    height: auto;
+    width: 800px;
+    background-color: var(--backgroundColor);
+    margin-top: 30px;
+    padding-top: 10px;
+    text-align: left;
+    padding-bottom: 20px;
+   
+    margin-bottom: 30px;
+    padding-left: 50px;
+}
+#checkbox {
+    width: 15px;
+    height: 15px;
+    margin-left: 10px;
+}
+
+.unosForma input {
+    width: 200px;
+    margin-left: 55px;
+    margin-top: 10px;
+}
+
+
+
+.checkboxLabel {
+    font-size: medium;
+}
+
+
+
+.unosForma label {
+    margin-left: 50px;
+
+}
+
+.unosForma .ime {
+    width: 200px;
+    margin-left: 55px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.unosForma .email {
+    width: 200px;
+    margin-left: 48px;
+    margin-top: 50px;
+}
+
+#messageInput1 {
+    margin-left: 55px;
+    margin-top: 10px;
+    width: 300px;
+    height: 150px;
+    resize: none;
+}
+
+.messageBox1 {
+    margin-top: 20px;
+}
+
+
+#submitButton {
+    margin-left: 300px;
+    margin-top: 20px;
+
+}
+
+.flexForma {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+
+.unosNaslov {
+    text-align: center;
+    font-size: x-large;
+    margin-bottom: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: rgb(33, 48, 33);
+}
+
+
+.optionVrsta {
+    margin-left: 60px;
+    margin-top: 40px;
+    margin-bottom: -20px;
+}
+
+input.radio {
+    width: 15px;
+    margin-right: 5px;
+    margin-left: 55px;
+}
+
+.warning {
+    font-size: 14px;
+    margin-left: 56px;
+    color: brown;
+}
+
+.pregledDiv {
+    margin-top: 5px;
+    margin-bottom: 40px;
+    
+}
+
+.flexForma .right {
+    padding-right: 140px;
+    padding-left: 100px;
+}
+
+#unesenaZivotinja {
+    width: 500px;
+    font-size: xx-large;
+    margin-top: 50%;
+    margin-left: 35%;
+}

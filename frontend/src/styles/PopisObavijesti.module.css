@@ -1,0 +1,52 @@
+.obavijestBox {
+    border-color: gray;
+    border-width: 2.5px;
+    border-style: solid;
+    border-radius: 0.25em;
+    margin-bottom: 10px;
+    margin-top: 15x;
+    width: 1000px;
+}
+
+.naslovLabel {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 15px;
+    align-items: center;
+    height: 40px
+}
+
+.naslovObavijesti {
+    font-size: larger;
+    font-weight: bold;
+}
+
+.sadrzajObavijesti {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#trashButton {
+    height: 35px;
+    width: 35px;
+    background-color: transparent;
+    transition: none;
+}
+
+#trashButton:hover {
+    border-color: transparent;
+}
+
+#trashButton:focus,
+#trashButton:focus-visible {
+    outline: transparent;
+}
+
+.datumIDelete {
+    display: flex;
+    flex-direction: row;
+    height: 40px;
+    align-items: center;
+}

@@ -1,0 +1,78 @@
+.kontaktForma {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    border-radius: 0.5em;
+    height: auto;
+    width: 600px;
+    background-color: var(--backgroundColor);
+    margin-top: 60px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.kontaktForma form {
+    display: flex;
+    flex-direction: column;
+    margin-top: -4%;
+}
+
+.kontaktForma input {
+    width: 200px;
+    margin-top: 4%;
+    margin-bottom: 3%;
+    border-radius: 0.25em;
+}
+
+.kontaktForma .divIme {
+    margin-top: 50px;
+}
+
+.kontaktForma label {
+    height: 100px;
+}
+
+.messageInput {
+    width: 300px;
+    height: 125px;
+    resize: none;
+    border-radius: 0.25em;
+    vertical-align: top;
+    white-space: pre-line;
+    border-style: inset;
+    border-width: 2px;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    margin-top: 4%;
+}
+
+.messageBox {
+    margin-top: 10px;
+    display: block;
+}
+
+.messageBox label {
+
+    height: 20px;
+}
+
+
+#submitButton1 {
+    margin-top: 20px;
+
+}
+
+.kontaktNaslov {
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: rgb(33, 48, 33);
+}
+
+.messageSent {
+    width: 300px;
+    font-size: xx-large;
+    margin-top: 100%;
+    margin-left: 55%;
+}

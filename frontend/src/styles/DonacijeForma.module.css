@@ -1,0 +1,65 @@
+
+
+#messageInput3 {
+    margin-top: 10px;
+    width: 300px;
+    height: 150px;
+    resize: none;
+    margin-bottom: 20px;
+}
+
+.donacijaForma {
+    border-radius: 1.5em;
+    height: auto;
+    border-color: rgb(33, 48, 33);
+    border-style: solid;
+    background-color: rgba(143, 132, 132, 0.396);
+    margin-top: 10px;
+    text-align: left;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.donacijaForma form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.donacijaNaslov {
+    font-size: x-large;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: rgb(33, 48, 33);
+}
+
+#objaviButton {
+    margin-left: 33.67%;
+}
+
+.vrijednostDonacije  {
+    width: 200px;
+}
+
+.selectDonacije {
+    width: 210px;
+}
+
+.checkboxLabel2 {
+    font-size: medium;
+}
+
+.checkbox2{
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+}
+
+.vrstaNaslov {
+    margin-bottom: 5px;
+}
